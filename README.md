@@ -66,10 +66,8 @@ Attach the following permissions to the CodeBuild Service Role.
 These permissions allow CodeBuild to:
 - Read Docker Hub credentials from Parameter Store
 - Access the GitHub repository through CodeConnections
-```
-
-
-# Step 4: Create CodePipeline
+``
+## Step 4: Create CodePipeline
 
 Pipeline Stages
 
